@@ -6,7 +6,8 @@ Resources to learn about Zero Knowledge Proofs
 1. [Mathematics](#1-mathematics)
 2. [Zk Theory](#2-zk-theory)
 3. [Tutorials and courses](#3-tutorials-and-courses)
-4. [Articles and blogs](#5-articles-and-blogs)
+4. [Articles and blogs](#4-articles-and-blogs)
+5. [Learning implementations](#5-learning-implementations)
 
 ## 1. Mathematics
 - *Preethi Kasireddy*, **"A Painless Guide to Cryptography for Zero-Knowledge Proofs"**, ZkCamp.xyz, 30 June 2023, https://www.zkcamp.xyz/blog/zk-cryptography
@@ -16,9 +17,11 @@ Resources to learn about Zero Knowledge Proofs
 
 ## 2. Zk Theory
 - *Preethi Kasireddy*, **"The Lifecycle of a ZK Proof"**, ZkCamp.xyz, 27 July 2023, https://www.zkcamp.xyz/blog/lifecycle-of-zkp
+- *Justin Thaler*, **"Proofs, Arguments, and Zero-Knowledge"**, Georgetown University, July 18, 2023, [Web](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.html) [PDF](https://people.cs.georgetown.edu/jthaler/ProofsArgsAndZK.pdf)
 
 ## 3. Tutorials and courses
 - *0xPARC*, **"[MIT IAP 2023] Modern Zero Knowledge Cryptography"**, ZKiap.com, 2023, https://zkiap.com
+- *Dan Boneh, Shafi Goldwasser, Dawn Song, Justin Thaler & Yupeng Zhang*, **"Zero Knowledge Proofs MOOC"**, zk-learning.org, 2023, https://zk-learning.org/
 
 ## 4. Articles and blogs
 - **"ZkCamp Blog"**, ZkCamp.xyz, https://www.zkcamp.xyz/blog
@@ -28,3 +31,6 @@ Resources to learn about Zero Knowledge Proofs
 - *David Wong*, **"Cryptologie"**, cryptologie.net, https://www.cryptologie.net
 - **"Risen Crypto - Mathematical Cryptography"**, risencrypto.github.io, https://risencrypto.github.io
 - **"ZK Podcast Block"**, zeroknowledge.fm, https://zeroknowledge.fm/blog/
+
+## 5. Learning implementations
+- *initc3*, **"babySNARK"**, Feb 27, 2020, https://github.com/initc3/babySNARK
